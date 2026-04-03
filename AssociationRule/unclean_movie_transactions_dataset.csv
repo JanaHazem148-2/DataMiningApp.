@@ -1,0 +1,66 @@
+transaction_id,date,customer_name,movie_title,ticket_type,ticket_quantity,ticket_price,concession_items,concession_total,payment_method,total_amount
+TXN001,1/15/2024,John Smith,Dune: Part Two,ADULT,2,15.5,"Popcorn,Soda,Candy",28.5,Credit Card,59.5
+TXN002,1/15/2024,Sarah Johnson,Dune: Part Two,adult,2,15.5,popcorn;soda;candy,28.5,Credit Card,59.5
+TXN003,,Michael Brown,The Batman,Senior,1,12,"Popcorn, , ,Soda",15.75,Cash,
+TXN004,1/16/2024,Emily Davis,Oppenheimer,STUDENT,3,13,Nachos;Pretzel;Water,22,Debit Card,61
+TXN001,1/15/2024,John Smith,Dune: Part Two,ADULT,2,15.5,"Popcorn,Soda,Candy",28.5,Credit Card,59.5
+TXN005,16-01-2024,Robert Wilson,Barbie,Adult,4,,Hot Dog;Popcorn;Soda;Candy,45.25,Credit Card,107.25
+TXN006,1/17/2024,Jennifer Lee,Poor Things,adult,2,15.5,"Popcorn,, , , ,Soda",18,Cash,49
+TXN007,1/17/2024,David Martinez,Killers of the Flower Moon,CHILD,2,10,Candy;Popcorn,12.5,Credit Card,32.5
+TXN008,1/17/2024,Lisa Anderson,THE HOLDOVERS,Senior,1,12,,0,Cash,12
+TXN009,N/A,James Taylor,The Holdovers,SENIOR,1,12,"Water,Pretzel",8.5,Debit Card,20.5
+TXN010,1/18/2024,Mary Thomas,Napoleon,Adult,3,15.5,Popcorn;Soda; ; ;Nachos,38.75,Credit Card,85.25
+TXN004,1/16/2024,Emily Davis,Oppenheimer,STUDENT,3,13,Nachos;Pretzel;Water,22,Debit Card,61
+TXN011,18/01/2024,Christopher Moore,Wonka,CHILD,4,10,"Candy,Popcorn,Soda,",35,Cash,75
+TXN012,1/19/2024,Amanda Jackson,godzilla minus one,adult,2,,"Hot Dog,Soda",16.5,Credit Card,
+TXN013,19-01-2024,Matthew White,The Color Purple,Student,2,13,Popcorn; ; ;Candy;Water,24,Debit Card,50
+TXN014,null,Daniel Harris,Ferrari,ADULT,1,15.5,"Nachos,Soda",18.25,Cash,33.75
+TXN015,1/20/2024,Jessica Martin,American Fiction,adult,3,15.5,",Popcorn,Soda,Candy",32,Credit Card,78.5
+TXN016,20-01-2024,Paul Thompson,MEAN GIRLS,Adult,2,15.5,Pretzel;Water; ,14.75,Debit Card,45.75
+TXN017,1/20/2024,Karen Garcia,Mean Girls,ADULT,2,15.5,"pretzel,water,",14.75,Debit Card,45.75
+TXN018,1/21/2024,Steven Rodriguez,The Beekeeper,Senior,1,12,"Popcorn,, ,Soda,Candy",21.5,,33.5
+TXN019,1/22/2024,Laura Martinez,migration,Child,3,10,Candy;Popcorn;Soda,27,Cash,57
+TXN020,1/22/2024,Kevin Lee,Aquaman and the Lost Kingdom,student,2,13,"Hot Dog;,Nachos;Soda",25.5,Credit Card,51.5
+TXN021,22/01/2024,Nancy Walker,The Iron Claw,ADULT,1,,"Popcorn,Water",13.25,Cash,
+TXN015,1/20/2024,Jessica Martin,American Fiction,adult,3,15.5,",Popcorn,Soda,Candy",32,Credit Card,78.5
+TXN022,1/23/2024,Brian Hall,anyone but you,Adult,2,15.5,"Soda, ,Candy,Popcorn",29,Debit Card,60
+TXN023,23/1/2024,Rebecca Allen,Anyone But You,ADULT,2,15.5,soda;candy;popcorn,29,Debit Card,
+TXN024,23-01-2024,George Young,Maestro,Senior,1,12,,0,Cash,12
+TXN025,1/24/2024,Michelle King,Society of the Snow,adult,4,15.5,Popcorn;Soda;Hot Dog;Nachos,52,Credit Card,114
+TXN026,24-01-2024,Charles Wright,NIGHT SWIM,Child,3,10,"Candy, ,Popcorn",18.75,Cash,48.75
+TXN027,1/25/2024,Elizabeth Lopez,Night Swim,CHILD,3,10,candy;popcorn,18.75,Cash,48.75
+TXN028,,William Hill,Saltburn,Student,1,13,Pretzel;Water; ; ;Soda,17.25,Debit Card,30.25
+TXN029,25/01/2024,Barbara Scott,The Zone of Interest,ADULT,2,,",Popcorn,Soda",19.5,Credit Card,
+TXN030,1/26/2024,Richard Green,all of us strangers,adult,1,15.5,"Hot Dog,Nachos,",20,Cash,35.5
+TXN031,26-1-2024,Thomas Baker,The Hunger Games: The Ballad,ADULT,3,15.5,Popcorn;Soda;Candy;Nachos,42,credit card,88.5
+TXN032,2024.01.27,Sandra Rivera,Priscilla,Senior,1,,",Water,Pretzel",9.5,Cash,
+TXN033,27/01/24,Donald Campbell,WISH,child,4,10,"candy, , ,popcorn,soda",33,Debit card,73
+TXN034,1/28/2024,Patricia Mitchell,Wish,CHILD,4,10,Candy;Popcorn;Soda,33,Debit Card,73
+TXN035,1/28/2024,Mark Roberts,The Boy and the Heron,Adult,2,15.5,"Hot Dog, ,Nachos, ,Soda",28.75,CREDIT CARD,59.75
+TXN036,28/01/2024,Carol Phillips,THE BOY AND THE HERON,adult,2,15.5,hot dog;nachos;soda,28.75,Credit Card,59.75
+TXN037,,Betty Turner,Wonka,Student,1,13,", , ,Popcorn",5.5,cash,18.5
+TXN038,1/29/2024,Jeffrey Evans,AQUAMAN AND THE LOST KINGDOM,SENIOR,1,12,"Candy,Soda",11,Cash,23
+TXN031,26-1-2024,Thomas Baker,The Hunger Games: The Ballad,ADULT,3,15.5,Popcorn;Soda;Candy;Nachos,42,credit card,88.5
+TXN039,29-01-2024,Dorothy Collins,Freelance,adult,2,,"Popcorn,Hot Dog,Soda,Candy",36.5,Debit Card,
+TXN040,1/30/2024,Jason Stewart,Renaissance: A Film By Beyoncé,Adult,3,15.5,Nachos; ; ;Soda;Water,23.25,Credit Card,69.75
+TXN041,30/01/2024,Helen Morris,taylor swift: the eras tour,ADULT,4,15.5,", ,Popcorn,Candy,Soda,",39,credit card,101
+TXN042,1/31/2024,Gary Rogers,Taylor Swift: The Eras Tour,adult,4,15.5,popcorn;candy;soda,39,Credit Card,101
+TXN043,31-1-2024,Shirley Reed,Nyad,Senior,1,12,"Water, ,Pretzel",8.25,Cash,20.25
+TXN044,1/31/2024,Larry Cook,MEMORY,Student,2,13,Hot Dog;Popcorn; ;Soda,24.5,Debit Card,50.5
+TXN045,1/31/2024,Deborah Bailey,Memory,student,2,13,"hot dog,popcorn,soda",24.5,debit card,50.5
+TXN046,Feb 1 2024,Gregory Cooper,Leo,CHILD,3,,", ,Candy,Popcorn,Soda",29.25,Cash,
+TXN047,2/1/2024,Ruth Richardson,leo,Child,3,10,candy;popcorn;soda,29.25,CASH,59.25
+TXN048,1/2/2024,Frank Cox,The Marvels,adult,2,15.5,"Nachos,Soda, , ,Candy",27,Credit Card,58
+TXN049,2024.02.02,Maria Howard,THE MARVELS,ADULT,2,15.5,nachos;soda;candy,27,credit card,58
+TXN050,,Aaron Ward,Trolls Band Together,CHILD,5,10,"Popcorn,Candy,Soda,Hot Dog,Nachos",48,Cash,98
+TXN051,2/2/2024,Judy Torres,trolls band together,child,5,10,popcorn;candy;soda;hot dog;nachos,48,cash,98
+TXN052,2/2/2024,Henry Peterson,Next Goal Wins,Adult,1,15.5,", , , ,Water",3.5,Debit Card,19
+TXN053,2/3/2024,Pamela Gray,next goal wins,ADULT,1,,water,3.5,Debit card,
+TXN054,3/2/2024,Walter Ramirez,The Shift,Senior,2,12,Pretzel;Soda; ;Candy,19.75,Cash,43.75
+TXN055,2/4/2024,Virginia James,Silent Night,student,1,13,"Popcorn, , , ,Soda,Candy",18,Credit Card,31
+TXN056,4-Feb-24,Arthur Watson,SILENT NIGHT,Student,1,13,popcorn;soda;candy,18,credit card,31
+TXN057,2/5/2024,Teresa Brooks,,Adult,2,15.5,"Hot Dog,Nachos,Soda",28,Debit Card,59
+TXN058,,Ralph Kelly,Ricky Stanicky,ADULT,3,15.5,", ,Popcorn,Candy",24.5,Cash,71
+TXN059,5/2/2024,Frances Sanders,ricky stanicky,adult,3,,popcorn;candy,24.5,cash,
+TXN060,2/6/2024,Roy Price,The Bricklayer,Senior,1,12,"Water, , ,Pretzel",8,Debit Card,20
+TXN042,1/31/2024,Gary Rogers,Taylor Swift: The Eras Tour,adult,4,15.5,popcorn;candy;soda,39,Credit Card,101
